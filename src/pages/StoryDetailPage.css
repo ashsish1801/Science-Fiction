@@ -1,0 +1,28 @@
+.story-detail-page {
+    padding: 20px;
+  }
+  
+  .story-header {
+    text-align: center;
+  }
+  
+  .story-tabs {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .tab {
+    margin: 0 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .tab-content {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+  }
+  

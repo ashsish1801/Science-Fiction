@@ -1,0 +1,18 @@
+.stories-page {
+    text-align: center;
+    background-color: #03051b;
+    /* background-image: url('/assets/images/background.png'); */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .story-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+  }
+  

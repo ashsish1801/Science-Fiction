@@ -1,0 +1,44 @@
+.header {
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+body{
+  background: #00121f;
+}
+.navbar{
+  height: 50px;
+  width: auto;
+  margin: 10px;
+  background-color: #03051b;
+  padding: 10px;
+}
+.banner
+{
+  display: flex;
+  flex-flow: row;
+}
+.logo{
+  display: flex;
+  flex: auto;
+  font-family: "Kanit", sans-serif;
+  font-size: 19px;
+}
+.Home button
+{
+  background: #03051b;
+  margin-left: 4px;
+  color: white;
+  border: 0px;
+}
+.nav{
+  display: flex;
+  flex-flow: row;
+  margin-right: 340px;
+}

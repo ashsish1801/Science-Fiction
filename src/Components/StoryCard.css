@@ -1,0 +1,41 @@
+.story-card {
+  margin: 10px;
+  width: 250px;
+  height: 350px;
+  padding: 10px;
+  background: linear-gradient(93deg,#761de8 -2.94%,#29bdec 56.14%);
+  border-radius: 10px;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.story-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.story-info {
+  padding: 10px;
+}
+
+.story-info h3 {
+  margin: 0;
+}
+
+.story-info a {
+  display: block;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+.New-button{
+  height: 43px;
+  width: 220px;
+  border-radius: 146px;
+  border: 0px;
+  color: #179bc5;
+  font-size: large;
+  margin-top: 8px;
+  font-weight: 600;
+}
